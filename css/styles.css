@@ -10,6 +10,9 @@ body {
     grid-template-rows: repeat(3, 100px);
     gap: 5px;
     margin: 20px auto;
+    justify-content: center;
+    align-items: center;
+    justify-items: center;
 }
 .cell {
     width: 100px;
